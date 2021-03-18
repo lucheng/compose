@@ -26,11 +26,6 @@ exe = EXE(pyz,
                 'compose/config/config_schema_compose_spec.json',
                 'compose/config/config_schema_compose_spec.json',
                 'DATA'
-            ),
-            (
-                'compose/GITSHA',
-                'compose/GITSHA',
-                'DATA'
             )
           ],
 
